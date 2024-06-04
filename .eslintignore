@@ -1,0 +1,5 @@
+src/**/__snapshots__
+src/stories
+node_modules
+run.sh
+dist
